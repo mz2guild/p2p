@@ -43,7 +43,7 @@
     "devDependencies": {
         "@babel/core": "^7.21.4",
         "@babel/preset-env": "^7.21.4",
-        "@babel/preset-typescript": "^7.21.4",
+        "@babel/preset-typescript": "^7.22.5",
         "@playwright/test": "^1.32.3",
         "@sentry/react": "^7.47.0",
         "@sentry/tracing": "^7.47.0",

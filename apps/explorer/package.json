@@ -68,7 +68,7 @@
         "@storybook/addons": "7.0.4",
         "@storybook/react": "7.0.4",
         "@storybook/react-vite": "7.0.4",
-        "@storybook/theming": "7.0.4",
+        "@storybook/theming": "7.0.25",
         "@testing-library/dom": "^9.2.0",
         "@testing-library/jest-dom": "^5.16.2",
         "@testing-library/react": "^14.0.0",
